@@ -177,7 +177,6 @@ header {
   background-position: right;
   height: 100vh;
   align-items: stretch;
-  alignment: right;
   background-attachment: fixed;
   justify-content: flex-end;
 }
@@ -1248,7 +1247,6 @@ hr{
 }
 .main-nav li {
  display: inline-block;
- float: left;
  margin-left: 1px;
 }
 .main-nav li a:link,
